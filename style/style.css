@@ -1,17 +1,4 @@
-@keyframes move-izq {
-  0% {
-  }
-  100% {
-    transform: translateX(-100em);
-  }
-}
-@keyframes move-der {
-  0% {
-  }
-  100% {
-    transform: translateX(100em);
-  }
-}
+
 
 * {
   margin: 0;
